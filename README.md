@@ -1,7 +1,4 @@
-# [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://github.com/VideoGUI/VideoGUI)
-
-## 📢 News
-- [2024.6.17] We release the arXiv paper.
+# [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](VideoGUI.github.io)
 
 ## 📖 Introduction
 > **TL;DR:** A Multi-modal Benchmark for Visual-centric GUI Automation from Instructional Videos.
